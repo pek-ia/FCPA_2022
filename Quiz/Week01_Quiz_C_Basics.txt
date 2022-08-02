@@ -1,0 +1,63 @@
+Select the best answer for each of the following questions
+
+1. A 'C' statement ends with which special character?
+A. !
+B. #
+C. ;
+D. $
+
+2. The functions in a 'C' library are declared in a:
+A. loop variable
+B. header file 
+C. the initializer list
+D. typedef declaration
+
+3. What is the role of the Compiler?
+A. It edits your source code
+B. It translates source code into executable machine instructions 
+C. It creates a Visual Studio project file
+D. It uploads programs to GitHub
+
+4. For which of the following must an identifier be declared?
+A. A user-defined data type
+B. A function
+C. A variable
+D. All of the above
+
+5. In 'C', a byte can hold how much data?
+A. 8 bits, always
+B. A single character in the execution character set
+C. One value of type float
+D. 32 bits on an x86
+
+6. A function holds a sequence of:
+A. Expressions
+B. Answers
+C. Statements
+D. Operators
+
+7. Which of the following is NOT a valid 'C' declaration?
+A. long double x;
+B. unsigned int get_return_mileage(int rental_id);
+C. let $Y = "Hello";
+D. char * animal[100];
+
+8. Which of the following is a 'C' selection statement?
+A. if ( num_mice > 1 ) get_cat();
+B. while (1) processCharacter();
+C. long int selector = 7;
+D. int main(void){ }
+
+9. The return statement
+A. Sends your order back to Amazon
+B. Can only be the last statement in a function block
+C. Takes a mandatory value of 0
+D. Stops the currently executing function
+
+10. In size order, the 'C' floating point types are: 
+A.  char, int, long
+B.  float, double, long double
+C.  char, string, array
+D.  double, long double, long long
+
+Answer Key:  C, B, B, D, B, C, C, A, D, B

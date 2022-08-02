@@ -1,0 +1,61 @@
+Books
+=====
+
+Effective C: An Introduction to Professional C Programming
+Robert C. Seacord
+ISBN-13: 978-1718501041
+ISBN-10: 1718501048 
+
+C Programming Language, 2nd Edition
+by Brian W. Kernighan (Author), Dennis M. Ritchie (Author)
+ISBN-13: 978-0131103627
+ISBN-10: 0131103628
+
+Clean Code: A Handbook of Agile Software Craftsmanship
+Robert C. Martin
+ISBN-13: 978-0132350884
+
+MISRA C Specification
+=====================
+
+MISRA C:2012 (3rd edition, 1st rev.)
+Guidelines for the use of the C language in critical systems
+https://www.rlis.ford.com/cgi-bin/standards/restricted.cgi?p=misra&f=Ford-MISRA-C-2012
+https://www.rlis.ford.com/standards/misra/index.html
+
+C Language Specification
+========================
+
+ISO/IEC 9899:2018
+Information technology — Programming languages — C
+
+Official ISO Web store version if you have $200 to spend;
+It's possible that the library has this available on line.
+
+  https://www.iso.org/standard/74528.html
+
+C17/C18 post-ballot working spec for free:
+
+  http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf
+
+Online Reference
+
+C/C++ Languages
+
+http://cppreference.com
+
+Visual Studio
+
+Git
+
+Git for Windows
+
+Bash
+
+Microsoft Visual C++ Compiler
+MSVC
+
+
+
+
+

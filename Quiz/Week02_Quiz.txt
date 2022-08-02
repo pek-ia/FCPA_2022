@@ -1,0 +1,67 @@
+Select the best answer for each of the following questions
+
+1. If you execute the return statement inside of a for loop, you will:
+A. return to the beginning of the loop
+B. reset the loop counter
+C. stop the surrounding function and return to the caller
+D. turn the loop upside down
+
+2. Which of the following is NOT a declaration
+A. char * name = "Bobbie Sox";
+B. result = 23 * sinf(x); 
+C. unsigned short generate_small_test_val(); 
+D. long double * coefficient = &x_val;
+
+3. Which of one these statements declares a variable of pointer type
+A. int sort_bins[16];
+B. char input = 'a';
+C. double * torque_vector;
+D. unsigned int U4val;
+
+4. The members of a struct are
+A. Accessed through the . and -> operators
+B. Accessed by a zero-based index in square brackets
+C. Divisible by zero
+D. Always integer types 
+
+5. Given the following struct type, 
+     struct point { float x, float y };
+   which statement is NOT legal
+A. struct point a = { 1., 2. };
+B. typedef struct point control_point;
+C. struct point center = {.x = 14.f, .y = 1.f};
+D. struct point vertex = 0; 
+
+6. Given the declaration
+      void * slot;
+   the value of slot is:
+A. A NULL-terminated string
+B. A single byte
+C. A struct used for sorting
+D. A pointer to any kind of object
+
+7. which of the following statements would successfully output a message?
+A. print("A message for you");
+B. printf("Number %i", 27); 
+C. puts( 'interrupt received' );
+D. printf("%s", 27);
+
+8. Given the following declarations, 
+  int y = 42;
+  int *xptr = &y;
+which of these expressions is true
+
+A. ( &y == 42 )
+B. ( &xptr < y )
+C. ( &42 == &y )
+D. ( y == *xptr )
+
+
+9. MISRA C:2012 is:
+A. A vitamin supplement for programmers
+B. A hardware standard for Automotive MCUs
+C. A new Coronavirus variant discovered in Detroit 
+D. A set of guidelines for developing safe embedded C programs
+
+Answer Key:
+C, B, C, A, D, D, B, D, D
